@@ -3,4 +3,6 @@
 This App is using MySQL database
 
 ***
-It's free.
+MySQL Database Name used in this: mydatabase
+MySQL Table Name in this database: products__info
+
